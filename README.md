@@ -62,11 +62,12 @@ Before you begin, ensure you have the following prerequisites:
     ```bash
     npm run dev
     ```
-8. Start the development server:
+    Note: make sure that you open and run seperate terminal for both npm dependecies and laravel composer
+   
+9. Start the development server:
     ```bash
     php artisan serve
     ```
-    Note: make sure that you open and run seperate terminal for both compilation of assets and laravel composer
     Your Shoppie e-commerce website is now accessible at http://localhost:8000.
 
 ## Features
