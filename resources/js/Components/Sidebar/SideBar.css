@@ -1,0 +1,10 @@
+.sideBarContainer {
+    @apply flex flex-col;
+}
+.sideBarLink {
+    @apply hover:bg-[#121212] p-2 rounded-md;
+}
+
+.link-icon {
+    @apply me-1 w-[32px] h-[16px];
+}

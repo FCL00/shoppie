@@ -1,0 +1,15 @@
+.main {
+    @apply flex;
+}
+
+.sidebar {
+    @apply w-[250px] bg-[#181818] p-4;
+}
+
+.content {
+    @apply w-full p-4 bg-[#252525];
+}
+
+.footer {
+    @apply p-3;
+}
