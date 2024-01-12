@@ -80,6 +80,16 @@ Before you begin, ensure you have the following prerequisites:
 -   Admin Panel for Managing Products and Orders
 -   Responsive Design
 
+## Demo
+
+Check out these screenshots for a glimpse of Shoppie:
+
+![Demo Image 1](./demo/demo1.png)
+![Demo Image 2](./demo/demo2.png)
+![Demo Image 3](./demo/demo3.png)
+
+
+
 ## Contributing
 
 We welcome contributions to enhance Shoppie. Feel free to open issues, submit pull requests, or suggest improvements.
