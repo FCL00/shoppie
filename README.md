@@ -9,8 +9,9 @@ Welcome to Shoppie, your go-to e-commerce platform! This Laravel-based website i
     - [Installation](#installation)
 2. [Features](#features)
 3. [Technologies Used](#technologies-used)
-4. [Contributing](#contributing)
-5. [License](#license)
+4. [Demo](#demo)
+5. [Contributing](#contributing)
+6. [License](#license)
 
 ## Getting Started
 
