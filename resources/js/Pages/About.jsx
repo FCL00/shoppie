@@ -1,10 +1,10 @@
 import React from "react";
-import MainLayout from "@/Layouts/MainLayout";
+import GuestLayout from "@/Layouts/GuestLayout";
 const About = () => {
     return (
-        <MainLayout>
+        <GuestLayout>
             <div>About me</div>
-        </MainLayout>
+        </GuestLayout>
     );
 };
 

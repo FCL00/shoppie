@@ -30,7 +30,8 @@ Route::get("/profile", function(){
 });
 
 // User Related Routes
-Route::get("/login", [UserController::class, "showLogin"]);
-Route::post("/login", [UserController::class, "Login"]);
+Route::get("/login", [UserController::class, "showLogin"])->name("show_login");
+Route::post("/login", [UserController::class, "Login"])->name("login");
 Route::get("/register", [UserController::class, "showRegister"]);
 Route::post("/register", [UserController::class, "Register"]);
+Route::get("/profile", [UserController::class, "profile"]);
