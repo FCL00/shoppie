@@ -1,6 +1,7 @@
 <?php
 
 use App\Http\Controllers\ProfileController;
+use App\Http\Controllers\UserController;
 use Illuminate\Foundation\Application;
 use Illuminate\Support\Facades\Route;
 use Inertia\Inertia;
@@ -28,8 +29,8 @@ Route::get("/profile", function(){
     return inertia("Profile");
 });
 
-Route::get("/login", function(){
-    return inertia("Login");
-});
-
-
+// User Related Routes
+Route::get("/login", [UserController::class, "showLogin"]);
+Route::post("/login", [UserController::class, "Login"]);
+Route::get("/register", [UserController::class, "showRegister"]);
+Route::post("/register", [UserController::class, "Register"]);
