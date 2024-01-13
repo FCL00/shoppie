@@ -85,8 +85,9 @@ Before you begin, ensure you have the following prerequisites:
 
 Check out these screenshots for a glimpse of Shoppie:
 
-![Demo Image 2](./resources/js/assets/Shoppie2.png)
-![Demo Image 1](./resources/js/assets/Shoppie1.png)
+![Demo Image 1](./resources/js/assets/demo/home.png)
+![Demo Image 2](./resources/js/assets/demo/product.png)
+![Demo Image 3](./resources/js/assets/demo/cart.png)
 
 
 
