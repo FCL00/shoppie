@@ -9,8 +9,9 @@ Welcome to Shoppie, your go-to e-commerce platform! This Laravel-based website i
     - [Installation](#installation)
 2. [Features](#features)
 3. [Technologies Used](#technologies-used)
-4. [Contributing](#contributing)
-5. [License](#license)
+4. [Demo](#demo)
+5. [Contributing](#contributing)
+6. [License](#license)
 
 ## Getting Started
 
@@ -79,6 +80,16 @@ Before you begin, ensure you have the following prerequisites:
 -   Order History
 -   Admin Panel for Managing Products and Orders
 -   Responsive Design
+
+## Demo
+
+Check out these screenshots for a glimpse of Shoppie:
+
+![Demo Image 2](./resources/js/assets/Shoppie2.png)
+![Demo Image 1](./resources/js/assets/Shoppie1.png)
+
+
+
 
 ## Contributing
 
