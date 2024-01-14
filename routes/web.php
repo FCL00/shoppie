@@ -1,5 +1,6 @@
 <?php
 
+use App\Http\Controllers\CartController;
 use App\Http\Controllers\ProfileController;
 use App\Http\Controllers\UserController;
 use Illuminate\Foundation\Application;
@@ -35,3 +36,7 @@ Route::post("/login", [UserController::class, "Login"])->name("login");
 Route::get("/register", [UserController::class, "showRegister"]);
 Route::post("/register", [UserController::class, "Register"]);
 Route::get("/profile", [UserController::class, "profile"]);
+
+
+// cart related routes
+Route::get("/cart", [CartController::class, "index"]);
