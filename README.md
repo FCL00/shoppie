@@ -64,8 +64,7 @@ Before you begin, ensure you have the following prerequisites:
     npm run dev
     ```
     Note: make sure that you open and run seperate terminal for both npm dependecies and laravel composer
-   
-9. Start the development server:
+8. Start the development server:
     ```bash
     php artisan serve
     ```
@@ -89,13 +88,10 @@ Check out these screenshots for a glimpse of Shoppie:
 ![Demo Image 2](./resources/js/assets/demo/product.png)
 ![Demo Image 3](./resources/js/assets/demo/cart.png)
 
-
-
-
 ## Contributing
 
 We welcome contributions to enhance Shoppie. Feel free to open issues, submit pull requests, or suggest improvements.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
