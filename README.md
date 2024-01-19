@@ -90,7 +90,7 @@ Check out these screenshots for a glimpse of Shoppie:
 
 ## Contributing
 
-We welcome contributions to enhance Shoppie. Feel free to open issues, submit pull requests, or suggest improvements.
+I welcome contributions to enhance Shoppie. Feel free to open issues, submit pull requests, or suggest improvements.
 
 ## License
 
